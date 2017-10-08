@@ -11,6 +11,8 @@ Presentation: Presentation_Reseaux.pdf
 
 Article: IFT6055_Rapport.pdf
 
+I start by presenting the Precision Agriculture, it's current challenges and the introduction. Then, I present the subject.
+
 Overview (translated from french):
 
 I) Wireless sensor networks
