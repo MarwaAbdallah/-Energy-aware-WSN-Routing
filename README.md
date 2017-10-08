@@ -1,4 +1,6 @@
 # -Energy-aware-WSN-Routing
+Welcome!
+
 This repository contains my presentation, in french, of the current L3 energy aware routing techniques for precision agriculture. There is also the subsequent report.
 They are both provided in the PDF format.
 
@@ -41,3 +43,5 @@ IV) Futures directions
 
 
 V) Conclusion
+
+Good Reading!
