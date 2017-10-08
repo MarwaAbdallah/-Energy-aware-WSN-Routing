@@ -9,29 +9,27 @@ Article: IFT6055_Rapport.pdf
 
 Overview (translated from french):
 
-I) Les réseaux de capteurs sans fil
-
 I) Wireless sensor networks
 
 
-  A) A sensor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  A) A sensor
   
   
-  B) Wireless Sensor Networks
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  B) Wireless Sensor Networks
   
   
-  C) The importance of simulation 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  C) The importance of simulation 
   
   
-  D) Communication standards
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  D) Communication standards
 
 II) The energy Conservation techniques
 
 
-  A) The various mechanisms involved
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   A) The various mechanisms involved
   
   
-  B) Energy-aware routing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  B) Energy-aware routing
   
   
 III) A concrete example (not in the article)
