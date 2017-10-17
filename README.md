@@ -53,23 +53,23 @@ My teammate was Théophile Henri
 
 ### I) Introduction
 ### II)The architecture of Android's applications and it's security
-##### A) The components of an application
-##### B) The security at the upstream level 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) The components of an application
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) The security at the upstream level 
 ### III) Threats, and their propagation vectors
-##### A) Threats
-##### B) Most common Android viruses 
-##### C) Propagation vector
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) Threats
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) Most common Android viruses 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C) Propagation vector
 ### IV) The paiement managment
 ### V) An example
 ### VI) Evaluation, analysis and malware detection
-##### A) Methodologies
-###### 1) Static approach
-###### 2) Dynamic approach
-###### 3) The Rise of Machine... Learning
-##### B) Deployment Techniques
-###### 1) In the device
-###### 2) Distributed between the device and the cloud
-###### 3) In a cloud
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) Methodologies
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Static approach
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Dynamic approach
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) The Rise of Machine... Learning
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) Deployment Techniques
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) In the device
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Distributed between the device and the cloud
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) In a cloud
 ### VII) Futur directions
 ### VIII) Conclusions
 
