@@ -1,10 +1,10 @@
-Welcome!
+# Welcome!
 
 Here are is a brief description of the 2 reports I prepared for my grad course at Université de Montréal.
 
 The first one deals with WSN and energy-aware L3 protocols, wile the second one exposes Android Security, in particular I focused on detection strategies.
 
-# -Energy-aware-WSN-Routing
+# Energy Aware Routing methods for Precision Agriculture
 
 This repository contains my presentation, in french, of the current L3 energy aware routing techniques for precision agriculture. There is also the subsequent report.
 They are both provided in the PDF format.
@@ -43,11 +43,35 @@ I start by presenting the Precision Agriculture, it's current challenges and the
   
   
 ### III) A concrete example (not in the article)
-
-
 ### IV) Futures directions
-
-
 ### V) Conclusion
+
+
+# Android Security: Threaths Models and detection strategies
+
+My teammate was Théophile Henri
+
+### I) Introduction
+### II)The architecture of Android's applications and it's security
+##### A) The components of an application
+##### B) The security at the upstream level 
+### III) Threats, and their propagation vectors
+##### A) Threats
+##### B) Most common Android viruses 
+##### C) Propagation vector
+### IV) The paiement managment
+### V) An example
+### VI) Evaluation, analysis and malware detection
+##### A) Methodologies
+###### 1) Static approach
+###### 2) Dynamic approach
+###### 3) The Rise of Machine... Learning
+##### B) Deployment Techniques
+###### 1) In the device
+###### 2) Distributed between the device and the cloud
+###### 3) In a cloud
+### VII) Futur directions
+### VIII) Conclusions
+
 
 Good Reading!
