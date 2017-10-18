@@ -1,9 +1,9 @@
 # Welcome!
 
-Here are is a brief description of the 2 reports I prepared for my grad course at Université de Montréal.
+Here are is a brief description of the 2 reports I prepared for my grad courses at Université de Montréal.
 They are in french
 
-The first one deals with Android's security , wile the second one discusses Wireless sensor Networks and energy-aware L3 protocols.
+The first one deals with Android's security , while the second one discusses Wireless sensor Networks and energy-aware L3 protocols.
 
 The targeted audiences are grad students, not familiar with these new topics but with a concrete IT background.
 
