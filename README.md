@@ -1,78 +1,48 @@
 # Welcome!
 
 Here are is a brief description of the 2 reports I prepared for my grad course at Université de Montréal.
+They are in french
 
-The first one deals with WSN and energy-aware L3 protocols, wile the second one exposes Android Security, in particular I focused on detection strategies.
+The first one deals with Android's security , wile the second one discusses Wireless sensor Networks and energy-aware L3 protocols.
+
+The targeted audiences are grad students, not familiar with these new topics but with a concrete IT background.
+
 # Android Security: Threaths Models and detection strategies
 
-My teammate was Théophile Henri
-## Table Of Contents (
+*Report: AndroidSecurity.pdf*
 
-### I) Introduction
-### II)The architecture of Android's applications and it's security
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) The components of an application
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) The security at the upstream level 
-### III) Threats, and their propagation vectors
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) Threats
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) Most common Android viruses 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C) Propagation vector
-### IV) The paiement managment
-### V) An example
-### VI) Evaluation, analysis and malware detection
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) Methodologies
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) Static approach
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Dynamic approach
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) The Rise of Machine... Learning
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) Deployment Techniques
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) In the device
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) Distributed between the device and the cloud
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) In a cloud
-### VII) Futur directions
-### VIII) Conclusions
+My teammate for this report is Théophile Henri.
+
+After the introduction, we start by presenting the architecture of an application, which is the malwares' main point of entry.
+Then, we expose the upstream security mechanisms: from the app markets, to the sandboxing and use of permission within the app and device. 
+Next we introduce Google's payment system. In particular, we cite a couple proof of concept attack exploiting the legitim app's developer lack of rigour in the verification of the signature process.
+The following section presents the main threats and their propagation vector.
+
+Section VI presents the malware analysis and detection process. This is a very difficult problem and several approachs are extensively studied in the litterature and applied by Google and anti-malware companies.
+We briefly present the hope brought by artificial intelligence: deep and machine learning. 
+We finish by concluding.
 
 
 
 # Energy Aware Routing methods for Precision Agriculture
 
-This repository contains my presentation, in french, of the current L3 energy aware routing techniques for precision agriculture. There is also the subsequent report.
 They are both provided in the PDF format.
 
-The audience was my classmates from the graduate course: INF 6055 - Protocoles de communications (Université de Montréal).
-The scope of the project was to present a synthesis of a specific subject.
+*Presentation (slides): WSN_Presentation.pdf*
 
-*Presentation: WSN_Presentation.pdf*
+*Report: WSN_Report.pdf*
 
-*Article: WSN_Report.pdf*
+I start by presenting the Precision Agriculture, it's current challenges and the introduction. Then, I present the sensor and Wireless Sensor Networks.
 
-I start by presenting the Precision Agriculture, it's current challenges and the introduction. Then, I present the subject.
+In this particular contexts, sensors are deployed usually in huge agricultural fields to send various non time critical data (humidity, pH....). The lifetime of the sensor depends on the lifetime of it's battery without any recharging, in most use cases.
 
-## Overview (translated from french):
-
-### I) Wireless sensor networks
+In the next section, I present the current mechanisms aiming to reduce the enrgy consumptions and reach the best *energy efficiency*. This is the ratio of the total quantity of sent data to the total energy consumption.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A) A sensor
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B) Wireless Sensor Networks
-  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C) The importance of simulation 
-  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D) Communication standards
+These techniques varies and involves active research in : the sensor's positionning strategies in a field, L7 to L3 energy saving protocols and mechanisms.
 
-### II) The energy Conservation techniques
+In particular, we present IP level energy aware protocols, *LEACH* being the most cited one in the litterature
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  A) The various mechanisms involved
-  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  B) Energy-aware routing
-  
-  
-### III) A concrete example (not in the article)
-### IV) Futures directions
-### V) Conclusion
 
 
 
